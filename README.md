@@ -1,4 +1,5 @@
 <!--타이틀 부분-->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0075FF&fontColor=fff&height=300&section=header&text=I&nbsp;am&nbsp;Yeonjung✌🏻&fontSize=90" />
-</div>
+# Yeooonn 💎
+<p>👋🏻 안녕하세요, 협업과 개발하는 것을 좋아하는 프론트엔드 개발자 김연정입니다.</p>
+
+
