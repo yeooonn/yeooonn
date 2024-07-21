@@ -17,6 +17,6 @@
    - Framework : <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-gray?style=flat-square&logo=react&logoColor=white"/>
    - Bundler : <img src="https://img.shields.io/badge/Webpack-green?style=flat-square&logo=Webpack&logoColor=white"/>
    - Style : <img src="https://img.shields.io/badge/styled components-hotpink?style=flat-square&logo=styled components&logoColor=white"/>
-- DevOps : <img src="https://img.shields.io/badge/Amawon AWS-darkgray?style=flat-square&logo=Amawon AWS&logoColor=white"/>
+- DevOps : <img src="https://img.shields.io/badge/Amazon AWS-darkgray?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 - Communication Tools :<img src="https://img.shields.io/badge/Slack-purple?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft Teams-skyblue?style=flat-square&logo=Microsoft Teams&logoColor=white"/>  <img src="https://img.shields.io/badge/Jira-blue?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/> 
 - Design Tools : <img src="https://img.shields.io/badge/Figma-tomato?style=flat-square&logo=Figma&logoColor=white"/> 
