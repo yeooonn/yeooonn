@@ -5,7 +5,7 @@
 
 
 ## 📖 Resume
-- [이력서](https://www.rallit.com/resumes/95026@kyj980303/%EA%B9%80%EC%97%B0%EC%A0%95)
+- 제작 중이에요 :)
 
 
 ## 🤟🏻 Portfolio
