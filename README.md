@@ -1,16 +1,6 @@
 <!--타이틀 부분-->
 # 👋🏻 안녕하세요, 프론트엔드 개발자 김연정입니다.
 
-> 저는 다양한 직군의 팀원들과 협업하여 함께 개발하는 것을 좋아해요. <br/>UX에 관심이 많고, 단순한 기능 구현이 끝이 아닌 어떻게 하면 코드를 좀 더 개선할 수 있을지 항상 고민해요. <br/>또, 진행 중인 프로젝트에 맞는 새로운 기술을 적용하는 것을 좋아합니다. 🤭
-
-
-## 📖 Resume
-- 제작 중이에요 :)
-
-
-## 🤟🏻 Portfolio
-- 제작 중이에요 :)
-
 ## ⚒️ Tech Stacks
 - Fronted Skils 
    - Programming Language : <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/>
